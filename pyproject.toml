@@ -1,0 +1,19 @@
+[project]
+name = "TensorRT"
+version = "0.1.0"
+dependencies = [
+  "torch",
+  "torchvision",
+  "onnx",
+  "numpy",
+  "matplotlib",
+  "opencv-python",
+  "jupyter"
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+# Remove the problematic [tool.uv] section completely
+# UV will use the dependencies from the [project] section by default
