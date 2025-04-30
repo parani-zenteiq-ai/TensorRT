@@ -11,5 +11,6 @@
   <b>End-to-End Object Detection Pipeline:</b> From <code>PyTorch</code> training to <code>TensorRT</code> deployment with real-time benchmarking.
 </p>
 
-
-##The project is under cooking but my code does not run the way i expected so please
+<p align="center">
+ <b>The project is under cooking but my code does not run the way i expected so please
+</p>
