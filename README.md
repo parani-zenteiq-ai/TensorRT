@@ -235,8 +235,8 @@ pip install torch==2.0.0 torchvision==0.15.1 onnx==1.13.0 onnxruntime-gpu==1.13.
 - [ONNX to TensorRT Model Conversion](https://onnxruntime.ai/docs/build/eps/tensorrt.html)
 
 ###  Video Tutorials
-- [TensorRT Optimization Techniques (YouTube)](https://www.youtube.com/watch?v=0p-DBL8PzF0)
-- [Deploying YOLOv5 with TensorRT (YouTube)](https://www.youtube.com/watch?v=8zAFqgO7ueg)
+- [TensorRT Optimization Techniques (YouTube)](https://youtu.be/UnIuMXGylfY?si=fxTBmzYVf-z8mPi50)
+- [Deploying YOLOv5 with TensorRT (YouTube)](https://youtu.be/ErWC3nBuV6k?si=uThPQZPtZYP8chvo)
 
 ---
 
