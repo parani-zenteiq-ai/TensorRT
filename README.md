@@ -1,4 +1,16 @@
-the project that we are doing is building a VLM foundation model for scientific image and interpretation basically i had attached you the image please refer that and the total idea is the user query with boundary condition directly pass the image and query to the VLM and the vlm should response with insfihts if the user ask for plot another VLm shoud be always ready to plot that should be able to plot and the first clm should have the sicml and FEM solver since we already have the both domain solvers we can have tha in our back end if the vlm fails the both sciml and finite element solvers should must have the solution or something to interprete right so taht is the whole idea the vlm had should with discrete solutions as well this is the whole project idea 
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv5-Object%20Detection-blue?logo=python" />
+  <img src="https://img.shields.io/badge/PyTorch-Model%20Training-EE4C2C?logo=pytorch" />
+  <img src="https://img.shields.io/badge/ONNX-Model%20Conversion-1F70C1?logo=onnx" />
+  <img src="https://img.shields.io/badge/TensorRT-Inference%20Acceleration-green?logo=nvidia" />
+  <img src="https://img.shields.io/badge/PyCUDA-GPU%20Interface-yellow?logo=nvidia" />
+  <img src="https://img.shields.io/badge/CUDA-10.1%2B-black?logo=nvidia" />
+</p>
 
-first understand this andyou summarize it inyou way in understandable basically its like fine tuning a vlm to intereprete and give the solution to the problem or any sci reltaed tasks 
-understand this and let you know what is my task on it 
+<p align="center">
+  <b>End-to-End Object Detection Pipeline:</b> From <code>PyTorch</code> training to <code>TensorRT</code> deployment with real-time benchmarking.
+</p>
+
+<p align="center">
+ <b>The project is under cooking but my code does not run the way i expected so please
+</p>
