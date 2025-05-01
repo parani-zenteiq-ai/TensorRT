@@ -5,11 +5,17 @@
   <img src="https://img.shields.io/badge/TensorRT-Inference%20Acceleration-green?logo=nvidia" />
   <img src="https://img.shields.io/badge/PyCUDA-GPU%20Interface-yellow?logo=nvidia" />
   <img src="https://img.shields.io/badge/CUDA-10.1%2B-black?logo=nvidia" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA%20RTX%20A6000-76B900?logo=nvidia&logoColor=white" />
 </p>
+  
+</p>
+
 
 <p align="center">
   <b>End-to-End Object Detection Pipeline:</b> From <code>PyTorch</code> training to <code>TensorRT</code> deployment with real-time benchmarking.
 </p>
+
+> 💻 This project was developed and benchmarked on an **NVIDIA RTX A6000** GPU with CUDA 12.8 support.
 
 
 >  **Note:** This implementation currently supports **TensorRT FP16** optimization only.  
